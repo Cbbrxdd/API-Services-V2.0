@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "674f51e09e32c89131e39e1a",
+    "Username": "Admin",
+    "Password": "admin",
+    "Email": "test@gmail.com",
+    "RegisterDate": 1733251543887,
+    "Subscription": {
+      "Type": "Kurucu",
+      "StartTimestamp": 1733251543887,
+      "GlobalLimit": 0,
+      "LimitedQuery": []
+    },
+    "Auth": "admin",
+    "IP": "127.0.0.1",
+    "sorgular": [
+      {
+        "name": "TEST",
+        "startTimestamp": 1733251881417,
+        "endTimestamp": 1741027854135,
+        "active": true,
+        "totalLimit": 1000,
+        "usedLimit": 10
+      }
+    ],
+    "__v": 0
+  }
+]
