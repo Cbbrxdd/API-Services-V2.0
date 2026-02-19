@@ -352,5 +352,4 @@ Bu proje **ISC** lisansı altında lisanslanmıştır.
 <p align="center">
   <b>API Services v2.0</b> — CbbrDigital tarafından geliştirilmiştir.
 </p>
-#   A P I - S e r v i c e s - V 2 . 0  
- 
+#
